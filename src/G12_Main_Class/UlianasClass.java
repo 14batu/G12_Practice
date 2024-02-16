@@ -4,5 +4,7 @@ public class UlianasClass {
     public static void main(String[] args) {
         System.out.println("I love Java");
         System.out.println("Learning is fun");
+
+        System.out.println("Almost done with Java :) ");
     }
 }
