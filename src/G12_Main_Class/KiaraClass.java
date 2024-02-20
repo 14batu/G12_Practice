@@ -1,3 +1,5 @@
+package G12_Main_Class;
+
 public class KiaraClass {
 
     public static void main(String[] args) {
